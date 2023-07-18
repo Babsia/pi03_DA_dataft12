@@ -24,7 +24,6 @@ Asimismo hay 4 archivos .csv que se inician con el prefijo "kpi" que son product
 
 De los datasets se tomaron como kpi el acceso a internet cada 100 hogares, los ingresos en pesos por fecha, el acceso a tecnologia por provincia, y el acceso por velocidad.
 
-Se encuentra tambien un archivo de formato power bi, que contiene el dashboar con las visualizaciones que estan filtradas en funcion del tiempo, de la ubicacion y diferenciado por tecnologia, velocidad y demas informacion complementaria.
 
 Por ultimo hay otro archivo de formato .md que contiene el reporte con la informacion obtenida y las conclusiones de este proyecto. 
 
